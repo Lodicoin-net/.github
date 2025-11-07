@@ -56,7 +56,7 @@ lodicoin/
 🌐 OFFICIAL LINKS
 🌎 Website   →  https://lodicoin.net
 💬 Telegram  →  https://t.me/lodicoin
-🐦 X/Twitter →  https://x.com/lodicoin
+🐦 X/Twitter →  https://x.com/lodicoins
 
 
 ⚠️ DISCLAIMER
